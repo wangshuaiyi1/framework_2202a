@@ -1,4 +1,4 @@
-module grpc
+module github.com/wangshuaiyi1/framework_2202a
 
 go 1.21
 
